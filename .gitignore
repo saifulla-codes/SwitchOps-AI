@@ -1,0 +1,11 @@
+
+# Local secrets and generated files
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.DS_Store
+data/*.db
+data/*.db-shm
+data/*.db-wal
